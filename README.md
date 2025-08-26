@@ -28,7 +28,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![Angela's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelaShalievska&show_icons=true&theme=radical)  
+![Angela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angella21&show_icons=true&theme=radical)
 
 ---
 
