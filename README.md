@@ -33,7 +33,7 @@
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/angela-shalievska-b0736a184a)
+[LinkedIn](https://www.linkedin.com/in/angela-shalievska-b0736a184/)
 
 - 📧 Email: angela.shalievska@icloud.com
 
