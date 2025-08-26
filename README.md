@@ -32,8 +32,8 @@
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angela%20Shalievska-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/angela-shalievska-b0736a184a)
+## 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/angela-shalievska-b0736a184a)
 
 - 📧 Email: angela.shalievska@icloud.com
 
